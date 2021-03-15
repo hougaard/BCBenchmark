@@ -1,0 +1,26 @@
+{
+  "id": "4dc7c890-5f8c-4b9f-b237-31d6386b9081",
+  "name": "BC Benchmark",
+  "publisher": "Hougaard.com",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 89320,
+      "to": 89399
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://hougaard.com/benchmark/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
